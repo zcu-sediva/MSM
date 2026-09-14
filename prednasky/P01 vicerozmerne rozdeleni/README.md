@@ -1,5 +1,5 @@
 # P01 — Obecná vícerozměrná rozdělení, marginální a podmíněná rozdělení
 
-- [ ] Beamer slidy (.tex)
+- [x] Beamer slidy (.pdf)
 - [ ] Poznámky pro cvičící (.md)
 - [ ] Doprovodná data / obrázky
