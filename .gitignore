@@ -11,6 +11,8 @@
 *.fdb_latexmk
 *.bbl
 *.blg
+*.tex
+
 
 # Python
 __pycache__/
