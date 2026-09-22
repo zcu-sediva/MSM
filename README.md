@@ -45,8 +45,8 @@ literatura/      Doplňkové materiály a odkazy na studijní literaturu
 
 | Body | Hodnocení |
 |------|-----------|
-| 85–100 (≥90 %) | výborně |
-| 75–84 (≥75 %) | velmi dobře |
+| 90–100 (≥90 %) | výborně |
+| 75–89 (≥75 %) | velmi dobře |
 | 60–74 (≥60 %) | dobře |
 | 59 a méně | neprospěl/a |
 
