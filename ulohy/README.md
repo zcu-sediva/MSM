@@ -21,6 +21,7 @@ V průběhu semestru budou zadány **3 úlohy**, za jejichž splnění lze získ
 - U dvojic platí **rotace mezi úlohami**: partner/ka pro úlohu 1, 2 a 3 by měl být pokaždé jiný, aby jste si prošeli různým spoluprácemi. 
 - Bez ohledu na formu zpracování (samostatně/ve dvojici) je u ústní části zkoušky každý dotazován samostatně a musí umět obhájit celou úlohu — volbu metody, princip i interpretaci výsledků — nejen tu část, na které sám pracoval.
 
+
 ## Forma zpracování
 
 Každá úloha bude odevzdána ve dvou částech:
@@ -63,5 +64,14 @@ Poznámky: poster má být srozumitelný, vizuálně přehledný a stručný; vy
 ## Obecná poznámka
 
 Všechny úlohy budou předkládány v takové úpravě a obsahu, jako by se jednalo o zakázkovou práci poradenské firmy nebo živnosti — úprava je součástí hodnocení. 
+
+## Podmínky využití AI
+
+- Nástroje AI (např. ChatGPT, Claude, Copilot apod.) lze využít jako pomůcku — pro konzultaci postupu, ladění kódu nebo vysvětlení teorie.
+- AI nesmí být použita k vygenerování řešení úlohy jako celku bez vlastního přispění a pochopení.
+- Student/ka musí být schopen/schopna u ústní části zkoušky obhájit celé řešení — volbu postupu, odvození i interpretaci výsledků — vlastními slovy, bez opory o AI.
+- Použití AI (a v jaké fázi/rozsahu) student/ka stručně uvede v dokumentaci (posteru).
+- Za správnost a autorství odevzdané práce odpovídá vždy student/ka.
+
 
 
