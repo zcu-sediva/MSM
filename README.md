@@ -15,6 +15,8 @@ zkouska/prakticka_cast/  Podklady k praktické (SW) části zkoušky
 literatura/      Doplňkové materiály a odkazy na studijní literaturu
 ```
 
+Odkaz na repozitář https://github.com/PatrikMrnka/MSM-visualisations obsahující další vizualizace
+
 ## Mapování přednášek na sylabus
 
 | # | Datum | Téma |
