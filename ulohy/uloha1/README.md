@@ -32,5 +32,11 @@ Student/ka si zvolí jedno obecné dvourozměrné rozdělení ze cvičení MSMcv
 7. **Závislost odhadu na rozsahu výběru**
    - Ukažte, jak se přesnost (a šířka intervalového odhadu) mění v závislosti na počtu vygenerovaných dat — např. porovnáním výsledků pro několik různých rozsahů výběru (n).
 
+## Software a odevzdání
+
+- Úlohu lze zpracovat v **Pythonu** nebo **MATLABu**; jiný software je možný jen po předchozí domluvě s vyučujícími.
+- Rozsah a forma odevzdávané práce (poster + kód) se řídí [obecnými požadavky na semestrální práce](../README.md).
+- Do STAGu odevzdává každý student/ka **poster i kód** v adresáři `Prijmeni_jmeno_02`; u dvojic oba stejnou verzi.
+
 ---
 *Blanka Šedivá, KMA/MSM 2026/2027*
